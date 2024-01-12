@@ -17,4 +17,4 @@ spec:
         - image: adammartincote/hello-kubernetes:1.10
           name: hello
           ports:
-            - containerPort: 80
+            - containerPort: 8080
